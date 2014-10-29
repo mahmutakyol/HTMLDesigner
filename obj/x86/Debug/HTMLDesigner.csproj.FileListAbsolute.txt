@@ -1,0 +1,22 @@
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\bin\Debug\HTMLDesigner.exe
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\bin\Debug\HTMLDesigner.pdb
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.Form1.resources
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.Properties.Resources.resources
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.csproj.GenerateResource.Cache
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.exe
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.pdb
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmBaglanti.resources
+c:\users\thin1\documents\visual studio 2010\Projects\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmOnizle.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.exe
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.pdb
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\bin\Debug\HTMLDesigner.exe
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\bin\Debug\HTMLDesigner.pdb
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.Form1.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmBaglanti.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmOnizle.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.Properties.Resources.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.csproj.GenerateResource.Cache
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmTablo.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmArkaplan.resources
+C:\Users\Mahmut\Desktop\HTMLDesigner\HTMLDesigner\obj\x86\Debug\HTMLDesigner.frmResim.resources
